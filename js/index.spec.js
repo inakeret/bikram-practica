@@ -243,7 +243,7 @@ describe('Ejercicios reduce', function () {
     })
 })
 //TODO allow any value for name 
-it('La variable result9 devuelve el resultado correcto', function () {
+it('La variable result8 devuelve el resultado correcto', function () {
     expect(result8).toEqual(`Me llamo ${sentenceElements[2]} y quiero sentir la fuerza con javascript`
 
     )
